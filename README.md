@@ -9,10 +9,10 @@ HW2-RegressinKNN: 10/10
 HW3-NN-PCA: 11/10 (top 20%)
 <br />
 
-HW4-SVM 10/10
+HW4-SVM: 10/10
 <br />
 
-HW5-NBC 10/10
+HW5-NBC: 10/10
 <br />
 
-HW6-Clustering 10/10
+HW6-Clustering: 10/10
